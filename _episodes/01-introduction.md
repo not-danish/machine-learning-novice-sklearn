@@ -97,7 +97,7 @@ Sometimes ML algorithms become over trained to their training data and struggle 
 
 ## Inability to explain answers
 
-Many machine learning techniques will give us an answer given some input data even if that answer is wrong. Most are unable to explain any kind of logic in arriving at that answer. This can make diagnosing and even detecting problems with them difficult. 
+Many machinertyrtr learning techniques will give us an answer given some input data even if that answer is wrong. Most are unable to explain any kind of logic in arriving at that answer. This can make diagnosing and even detecting problems with them difficult. 
 
 > ## Where have you encountered machine learning already?
 >
